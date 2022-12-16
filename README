@@ -1,2 +1,2 @@
-Implementation of Resnet(bottleneck and standard block) in pytorch
+Implementation of Resnet(bottleneck and standard block) in pytorch for image classification on CIFAR-10 dataset
 
